@@ -1,0 +1,42 @@
+body {
+	background-color: skyblue;
+	background: url('../img/5.jpg') no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	color: aqua;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+	font-family: 'Poiret One', cursive;
+}
+
+h1 {
+	font-size: 40px;
+	margin-bottom: 0;
+}
+
+h2 {
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+#me {
+	height: 150px;
+	border-radius: 50%;
+	border-style: solid;
+	border-color: green;
+	border-width: 5px;
+	margin-top: 50px;
+}
+
+
+.about {
+	width: 100%;
+}
+
+.container {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
