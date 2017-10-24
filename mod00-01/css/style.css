@@ -1,6 +1,6 @@
 body {
 	background-color: skyblue;
-	background: url('../img/5.jpg') no-repeat;
+	background: url('../img/6.jpg') no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 	color: aqua;
@@ -19,6 +19,7 @@ h1 {
 h2 {
 	text-transform: uppercase;
 	letter-spacing: 2px;
+	color: yellow;
 }
 
 #me {
@@ -33,6 +34,9 @@ h2 {
 
 .about {
 	width: 100%;
+	font-size: 18px;
+	line-height: 1.5;
+
 }
 
 .container {
